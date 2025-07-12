@@ -2,7 +2,7 @@
 📌 Project Overview
 This project is a static clone of the YouTube homepage, developed using HTML and CSS. It mimics the layout, structure, and basic visual design of YouTube’s main page to demonstrate front-end development skills using modern layout techniques.
 
-🧰 Technologies Used
+🧰 Technologies Used:-
 HTML5 – For page structure
 
 CSS3 – For styling and layout (including Flexbox & Grid)
